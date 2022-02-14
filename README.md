@@ -230,7 +230,7 @@ Publish the website in the given URL.
             </div>
         </div>
         <div class="container-fluid pt-1 bg-primary text-white width=100%">
-            <marquee bg color="aqua" behaviour="scroll direction=right loop=20 scrolldelay=20">Copyright 2021-2022 Devloped by Manoj Choudhary </marquee>
+            <marquee bg color="aqua" behaviour="scroll direction=right loop=20 scrolldelay=20">Copyright 2021-2022 Devloped by S.ABHISHEK </marquee>
         </div>
         </div>
 </body>
